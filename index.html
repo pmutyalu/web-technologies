@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>index page</title>
+        input:invalid{
+            animation: shake 300ms;
+            color:red;
+        }
+        @keyframes shake {
+            25%{
+                transform: translatex(4px);
+            }
+            50%{
+                transform: translatex(-4px);
+            }
+            75%{
+                transform: translatex(4px);
+            }
+        }
+    </head>
+    <body>
+        <input type="text" pattern="[a-zA-Z]*">
+    </body>
