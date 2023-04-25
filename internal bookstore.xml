@@ -1,0 +1,47 @@
+<!DOCTYPE book [
+<!ELEMENT book (book_details+)>
+<!ELEMENT book_details (title,author,ISBN,publisher_name,Edition,Price)>
+<!ELEMENT title (#PCDATA) >
+<!ELEMENT author (#PCDATA) >
+<!ELEMENT ISBN (#PCDATA) >
+<!ELEMENT publisher_name (#PCDATA) >
+<!ELEMENT Edition (#PCDATA) >
+<!ELEMENT Price (#PCDATA) >
+] >
+<book>
+<book_deatils>
+<title></title>
+<author>web technologies</author>
+<ISBN>5342</ISBN>
+<Publisher_name>aids-2</Publisher_name>
+<Edition>2</Edition>
+<Price>599</Price>
+</book_deatils>
+
+<book_deatils>
+<title>skill oriented course</title>
+<author>aids-2</author>
+<ISBN>1345</ISBN>
+<Publisher_name>srkr</Publisher_name>
+<Edition>3</Edition>
+<Price>570</Price>
+</book_deatils>
+
+<book_deatils>
+<title>html</title>
+<author>artificial</author>
+<ISBN>86988</ISBN>
+<Publisher_name>rao garu</Publisher_name>
+<Edition>4th</Edition>
+<Price>1999</Price>
+</book_deatils>
+
+<book_deatils>
+<title>hacking nasa</title>
+<author>hacker chi yarr</author>
+<ISBN>6747</ISBN>
+<Publisher_name>murari</Publisher_name>
+<Edition>5th</Edition>
+<Price>499</Price>
+</book_deatils>
+</book>
