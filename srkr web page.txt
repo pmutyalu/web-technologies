@@ -1,0 +1,34 @@
+<html>
+<head><title>SRKR ENGINEERING COLLEGE</head></title>
+<body><h1>srkr(A)<h1><img src="W:\web technologies lab\srkr logo.jfif"width="150"height="75"
+<center><b>2/4 Results</b>
+<table>
+<tr>
+<td>sno.</td>
+<td>subject.</td>
+<td>result.</td>
+</tr>
+<tr>
+<td>1</td>
+<td>DS</td>
+<td>fass</td>
+</tr>
+<tr>
+<td>2</td>
+<td>AI</td>
+<td>pail</td>
+</tr>
+<tr>
+<td>3</td>
+<td>CHII OHH</td>
+<td>pail😢</td>
+</tr>
+<tr>
+<td>4</td>
+<td>MFCS</td>
+<td>fass</td>
+</tr>
+</table>
+</center>
+</body>
+</head>

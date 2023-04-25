@@ -1,0 +1,11 @@
+<html>
+<head><title>frames</title></head>
+<body>
+<table>
+<tr><td><a href="">CSE</a>
+<tr><td><a href="">IT</a>
+<tr><td><a href="">ECE</a>
+<tr><td><a href="">MECH</a>
+</table>
+</body>
+</html>
